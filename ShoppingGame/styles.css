@@ -1,0 +1,11 @@
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 100px;
+    color: blue;
+    text-align: center;
+}
+
+.center {
+    margin: auto;
+    width: 95%;
+}
